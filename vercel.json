@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.mycrmzone.com/$1"
+ }
+  ]
+}
